@@ -130,3 +130,5 @@ This one adds "blame" information in the status bar. You can click on the person
 ### Git History
 
 This allows you to show a visual history of the branches and commits. It also shows the hash codes.
+
+Here is a change
